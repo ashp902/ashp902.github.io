@@ -4,7 +4,7 @@
       "image": "privasee.png",
       "description": "A privacy-focused image analyzer that detects and blurs sensitive content using Google Vision and Gemini APIs. Deployed with Cloud Run and integrated with Firestore and Google Analytics.",
       "technologies": ["MERN Stack", "Google Vision API", "Gemini API", "Google Cloud Run", "Firestore", "Google Analytics"],
-      "link": "https://privasee.web.app/"
+      "link": "https://github.com/ashp902/privasee"
     },
     {
       "title": "GenAI Resume Builder",
