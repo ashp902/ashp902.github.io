@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Privasee",
+      "image": "privasee.png",
+      "description": "A privacy-focused image analyzer that detects and blurs sensitive content using Google Vision and Gemini APIs. Deployed with Cloud Run and integrated with Firestore and Google Analytics.",
+      "technologies": ["MERN Stack", "Google Vision API", "Gemini API", "Google Cloud Run", "Firestore", "Google Analytics"],
+      "link": "https://privasee.web.app/"
+    },
+    {
+      "title": "GenAI Resume Builder",
+      "image": "resume.png",
+      "description": "An AI tool that parses resumes and reformats them into company standards using OpenAI, integrated with an internal applicant tracking system to reduce manual work.",
+      "technologies": ["OpenAI API", "LangChain", "Python", "FastAPI", "Resume Parsing", "NLP"]
+    },
+    {
+      "title": "Global Company Happiness Index",
+      "image": "happiness.png",
+      "description": "A real-time emotion analytics platform using facial recognition to assess employee morale and visualize trends across teams with a gamified dashboard.",
+      "technologies": ["Flask", "Facial Emotion Detection", "OpenCV", "Python", "Real-time Processing", "Dashboard Visualization"]
+    },
+    {
+      "title": "Mesh Messaging via Bluetooth",
+      "image": "mesh.png",
+      "description": "An Android app that enables offline peer-to-peer messaging using Bluetooth mesh networking and data relay through nearby disconnected devices.",
+      "technologies": ["Android", "Kotlin", "Bluetooth Mesh", "Flutter", "Peer-to-Peer Networking"]
+    }
+  ]
