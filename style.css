@@ -139,8 +139,9 @@ body {
 
 .hero {
     display: flex;
+    align-items: center;
     width: 100%;
-    height: 65%;
+    min-height: 65%;
     background-color: var(--main-bg);
 }
 
@@ -247,8 +248,8 @@ text {
 }
 
 :root {
-    --image-stack-width: 19.5rem;
-    --image-stack-height: 20.8rem;
+    --image-stack-width: 14.625rem;
+    --image-stack-height: 17.1rem;
 
     --back-box-top: calc(var(--image-stack-height) * -0.4);
     --back-box-left: calc(var(--image-stack-width) * -0.5);
@@ -606,7 +607,7 @@ text {
 .tooltip { display: block; }
 .project::before { opacity: 0.9; }
 
-  @media (max-width: 1200px) {
+  @media (max-width: 1023px) {
 
     .navbar {
         height: auto;
