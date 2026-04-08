@@ -338,12 +338,16 @@ text {
   .more {
     width: fit-content;
     align-self: center;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
     border: 0.125rem solid var(--black);
     padding: 0.75rem;
     background-color: var(--secondary);
     font-size: 0.9rem; /* 20px */
     color: var(--main-bg);
     cursor: pointer;
+    text-decoration: none;
 }
 
 .more svg {

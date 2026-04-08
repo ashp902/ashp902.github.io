@@ -19,6 +19,20 @@
       "technologies": ["Flask", "Facial Emotion Detection", "OpenCV", "Python", "Real-time Processing", "Dashboard Visualization"]
     },
     {
+      "title": "Persona Chat",
+      "image": "https://opengraph.githubassets.com/1/ashp902/persona-chat",
+      "description": "A single-file web app for researching and chatting with historical figures, celebrities, and fictional characters using Google Gemini. It grounds responses with Google Search, generates persona prompts, and supports ongoing multi-turn in-character conversations.",
+      "technologies": ["Vanilla HTML", "JavaScript", "Google Gemini API", "Google Search Grounding", "Multi-turn Chat"],
+      "link": "https://github.com/ashp902/persona-chat"
+    },
+    {
+      "title": "Sightline",
+      "image": "https://opengraph.githubassets.com/1/ashp902/sightline",
+      "description": "A local-first desktop application for terrain visibility analysis. It imports DEM GeoTIFF files, lets users place one or more observers on a map, and computes raster viewsheds to show visible versus hidden terrain with export and project save/load support.",
+      "technologies": ["Electron", "React", "TypeScript", "Vite", "MapLibre GL JS", "GeoTIFF", "proj4", "Zustand"],
+      "link": "https://github.com/ashp902/sightline"
+    },
+    {
       "title": "Mesh Messaging via Bluetooth",
       "image": "mesh.png",
       "description": "An Android app that enables offline peer-to-peer messaging using Bluetooth mesh networking and data relay through nearby disconnected devices.",
